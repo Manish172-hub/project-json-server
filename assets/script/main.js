@@ -229,6 +229,7 @@ const postStudent = async () => {
     });
     let data = await resp.json();
     console.log("added student: ", data);
+    window.location.reload();
   }
 };
 
@@ -274,6 +275,7 @@ const editStudent = async (rollNum) => {
     });
     let updatedStd_data = await resp.json();
     console.log("updated student: ", updatedStd_data);
+    window.location.reload();
   }
   });
   
@@ -292,6 +294,7 @@ const deleteStudent = async (removedId) => {
 
   const data = await resp.json();
   console.log('deleted student data : ', data);
+  window.location.reload();
 };
 
 

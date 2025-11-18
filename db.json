@@ -8,12 +8,11 @@
       "id": 1
     },
     {
-      "id": 2,
       "name": "Harsh",
       "email": "harsh@gmail.com",
-      "phone": "9712345678",
+      "phone": "4356646757678",
       "course": "DevOps & AWS",
-      "userId": 2
+      "id": 2
     },
     {
       "id": 3,
@@ -30,6 +29,13 @@
       "phone": "9970848469",
       "course": "Data Science",
       "userId": 4
+    },
+    {
+      "name": "sonal",
+      "email": "sonal@gmail.com",
+      "phone": "365789212345678",
+      "course": "AI & ML + Java Fullstack",
+      "id": 5
     }
   ],
   "faculty": [
