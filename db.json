@@ -1,0 +1,74 @@
+{
+  "students": [
+    {
+      "name": "Aditya Budhwant",
+      "email": "aditya@gmail.com",
+      "phone": "9756545234",
+      "course": "Python Fullstack",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Harsh",
+      "email": "harsh@gmail.com",
+      "phone": "9712345678",
+      "course": "DevOps & AWS",
+      "userId": 2
+    },
+    {
+      "id": 3,
+      "name": "Akansha",
+      "email": "akansha@gmail.com",
+      "phone": "9970232821",
+      "course": "Robotics & ML",
+      "userId": 3
+    },
+    {
+      "id": 4,
+      "name": "Aishwarya",
+      "email": "aishwarya@gmail.com",
+      "phone": "9970848469",
+      "course": "Data Science",
+      "userId": 4
+    },
+    {
+      "name": "Vinay",
+      "email": "vinay28@gmail.com",
+      "phone": "9970848469",
+      "course": "AI & ML + Java Fullstack",
+      "id": 5
+    }
+  ],
+  "faculty": [
+    {
+      "id": "1",
+      "name": "Vinay",
+      "email": "vinay@gmail.com",
+      "phone": "9970337273",
+      "subject": "MERN stack"
+    },
+    {
+      "id": "2",
+      "name": "Nandini",
+      "email": "nandini@gmail.com",
+      "phone": "9850546479",
+      "subject": "Java Fullstack"
+    }
+  ],
+  "admin": [
+    {
+      "id": "1",
+      "name": "Priyanka",
+      "email": "priyanka@gmail.com",
+      "phone": "8880123456",
+      "role": "System Admin"
+    },
+    {
+      "id": "2",
+      "name": "Manish",
+      "email": "manish@gmail.com",
+      "phone": "8880987654",
+      "role": "Network Admin"
+    }
+  ]
+}
