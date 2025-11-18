@@ -30,13 +30,6 @@
       "phone": "9970848469",
       "course": "Data Science",
       "userId": 4
-    },
-    {
-      "name": "Vinay",
-      "email": "vinay28@gmail.com",
-      "phone": "9970848469",
-      "course": "AI & ML + Java Fullstack",
-      "id": 5
     }
   ],
   "faculty": [

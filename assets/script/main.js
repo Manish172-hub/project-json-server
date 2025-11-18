@@ -281,6 +281,7 @@ const editStudent = async (rollNum) => {
 
 // delete student
 const deleteStudent = async (removedId) => {
+  alert('Do you really want to remove this entry?');
   console.log("delete id ", removedId);
   let deletedId = `${URL_students}/${removedId}`;
   console.log("deleted student by id", deletedId);
